@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="Ficha4.md" />
+  </Folder>
+  <Project Path="ex1/ex1.vcxproj" Id="9fa88bdd-93b6-4d7a-8eb3-be1fbaf10038" />
+</Solution>
