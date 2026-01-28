@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9fa88bdd-93b6-4d7a-8eb3-be1fbaf10038}</ProjectGuid>
-    <RootNamespace>ex1</RootNamespace>
+    <ProjectGuid>{a0e98b29-dc62-4628-b0e5-ed6278396d3f}</ProjectGuid>
+    <RootNamespace>ex2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,19 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Apartamento.cpp" />
-    <ClCompile Include="Escritorio.cpp" />
-    <ClCompile Include="ex1.cpp" />
-    <ClCompile Include="Imobiliaria.cpp" />
-    <ClCompile Include="Imovel.cpp" />
-    <ClCompile Include="Loja.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Apartamento.h" />
-    <ClInclude Include="Escritorio.h" />
-    <ClInclude Include="Imobiliaria.h" />
-    <ClInclude Include="Imovel.h" />
-    <ClInclude Include="Loja.h" />
+    <ClCompile Include="ex2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

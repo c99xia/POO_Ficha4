@@ -30,6 +30,9 @@
     <ClCompile Include="Imobiliaria.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Escritorio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Imovel.h">
@@ -42,6 +45,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Imobiliaria.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Escritorio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
