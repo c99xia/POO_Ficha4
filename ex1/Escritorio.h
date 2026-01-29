@@ -50,6 +50,7 @@ public:
      * -----------------------------------
      * ✅ Assinatura clara: Escritorio(double areaP, int andarP)
      * ✅ Impossível passar valor errado (não existe o parâmetro!)
+
      * ✅ Self-documenting: a ausência do parâmetro indica que é fixo
      * ✅ Menos código, menos bugs
      *

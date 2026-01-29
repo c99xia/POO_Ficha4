@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Animal.cpp" />
+    <ClCompile Include="Cao.cpp" />
+    <ClCompile Include="Clinica.cpp" />
     <ClCompile Include="ex2.cpp" />
+    <ClCompile Include="Gato.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animal.h" />
+    <ClInclude Include="Cao.h" />
+    <ClInclude Include="Clinica.h" />
+    <ClInclude Include="Gato.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
